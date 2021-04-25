@@ -7,6 +7,8 @@ import { NumpyComponent } from './numpy/numpy.component';
 import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
+import { PythonLibsComponent } from './python-libs/python-libs.component';
+import { PandasComponent } from './pandas/pandas.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +16,9 @@ import { HomeComponent } from './home/home.component';
     NumpyComponent,
     FooterComponent,
     HeaderComponent,
-    HomeComponent
+    HomeComponent,
+    PythonLibsComponent,
+    PandasComponent
   ],
   imports: [
     BrowserModule,

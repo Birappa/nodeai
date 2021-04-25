@@ -1,0 +1,17 @@
+.column {
+    width: 30%;
+    margin-right: 5%;
+}
+
+.last {
+    width: 30%;
+}
+
+.row {
+    width: 70%;
+    margin-left: 15%;
+}
+
+div h1{
+    text-align: center;
+}
